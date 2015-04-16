@@ -6,6 +6,8 @@ package ejemplouno;
 		protected String nombre;
 		protected int edad;
 		protected String apellido;
+		
+		//este es el constructor con nombre y edad
 		public Alumno(String a, int b){
 			nombre = a;
 			edad = b;
