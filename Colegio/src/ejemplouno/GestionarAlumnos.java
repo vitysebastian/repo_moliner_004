@@ -4,6 +4,7 @@ import ejemplouno.Lista;
 public class GestionarAlumnos {
 	
 public static void main(String[] args) {
+	
 
 	/* Crea una lista de alumnos */
 	Lista listaDAW;

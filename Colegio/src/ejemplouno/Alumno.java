@@ -2,6 +2,7 @@ package ejemplouno;
 
 	public class Alumno {
 		
+		
 		/* Constructor */
 		protected String nombre;
 		protected int edad;
